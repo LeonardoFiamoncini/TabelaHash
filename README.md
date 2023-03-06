@@ -8,3 +8,5 @@ Fatos a serem considerados:
 2) A tabela é um array de ponteiros para o primeiro elemento de cada lista.
 
 3) A hash table será definida como um tipo de dados composto por um array de ponteiros para alunos, com uma quantidade de posições que seja um número primo, no caso, 127. Desta forma, quando declaramos uma variável do tipo Hash, já estamos criando o array com uma quantidade prima de posições.
+
+Para verificar a demonstração das funções, utilize o arquivo "main.c".
